@@ -27,7 +27,7 @@ Why not... Maybe for fun? You might tell me the reason if it's somehow useful.
 ## Dependency
 
 - Normal mode (base64 encoding): No dependency
-- Extended mode: [bash-obfuscate](https://github.com/willshiao/node-bash-obfuscate)
+- Extended mode: [bash-obfuscate](https://github.com/hvmediavn/node-bash-obfuscate)
 
 ## Usage
 
@@ -100,4 +100,4 @@ Yes, it's relatively easy to deobfuscate, if someone knows how the obfuscation w
 
 ---
 
-<a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60px" width="217px"></a>
+<a href="https://www.buymeacoffee.com/huanvm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" height="60px" width="217px"></a>
